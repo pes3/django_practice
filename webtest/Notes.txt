@@ -1,0 +1,3 @@
+--- to run test in cmd >python manage.py test
+-- note all other tests will run if one fails
+Object relational mapping - you do allows you to not have to write sql. If you have an object it can be translated into an entry into a database table
